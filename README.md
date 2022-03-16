@@ -6,6 +6,7 @@ This is a system for managing student hostels from keeping a record of all avail
 
 - [Hostel Management System](#hostel-management-system)
   - [Contents](#contents)
+  - [Contributing Guide](#contributing-guide)
   - [Modules](#modules)
   - [Users](#users)
   - [Functional Requirements](#functional-requirements)
@@ -14,6 +15,16 @@ This is a system for managing student hostels from keeping a record of all avail
     - [Change Password](#change-password)
     - [Dashboard](#dashboard)
     - [Add Hostel](#add-hostel)
+
+## Contributing Guide
+
+To contribute to this project follow the steps below.
+
+1. Fork this repository to your account.
+2. clone the repository to your local machine.
+3. Create a branch with the name of feature you want to add or a issue you want to fix.
+4. Add the feature and push to github.
+5. Create a pull request with the develop branch.
 
 ## Modules
 
